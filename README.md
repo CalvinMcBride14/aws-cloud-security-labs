@@ -1,4 +1,4 @@
-# AWS Cloud Security Labs
+# 📂 **AWS Cloud Security Labs (README**)
 
 This repository contains hands-on AWS security labs designed to reinforce real-world cloud security concepts across multiple AWS services. All labs are structured to simulate real-world scenarios encountered by cloud security and cloud infrastructure engineers.
 
@@ -13,12 +13,14 @@ This repository contains hands-on AWS security labs designed to reinforce real-w
 - ✅ **KMS Encryption & Key Management**
 - ✅ **Logging, Monitoring, & Incident Response**
 - ✅ **Web Application Security (WAF, Shield, ALB/NLB)**
-  
 
-## 📂 Repository Structure
+---
 
-```bash
-/aws-cloud-security-labs
+##  Repository Structure
+
+```markdown
+# /aws-cloud-security-labs
+
   /accounts-iam-security         → IAM Users, Roles, Policies, Permission Boundaries
   /vpc-networking                → Custom VPCs, Subnets, NAT, Internet Gateways, Route Tables
   /vpn-site2site                 → Hybrid Site-to-Site VPN with pfSense
