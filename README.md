@@ -1,2 +1,29 @@
-# aws-cloud-security-labs
-Hands-on AWS security projects and cloud infrastructure labs focused on real-world IAM, VPC networking, encryption, monitoring, and incident response.
+# AWS Cloud Security Labs
+
+This repository contains hands-on AWS security labs I've built to reinforce practical cloud security skills across multiple AWS services. Each lab is designed to simulate real-world scenarios often encountered by cloud security engineers.
+
+## Lab Categories
+
+- ✅ **Identity & Access Management (IAM)**
+- ✅ **VPC Networking & Hybrid Connectivity**
+- ✅ **S3 Security & Data Protection**
+- ✅ **KMS Encryption & Key Management**
+- ✅ **Logging, Monitoring, & Incident Response**
+- ✅ **Web Application Security (WAF, Shield, ALB/NLB)**
+
+## Why This Repository
+
+These labs were built to develop hands-on experience beyond certification knowledge. Each project includes:
+
+- Architecture diagrams
+- Deployment steps
+- Configurations & policy examples
+- Lessons learned & troubleshooting notes
+
+---
+
+## AWS Certifications This Supports:
+
+- AWS Certified Security – Specialty
+- AWS Solutions Architect – Associate
+- AWS Advanced Networking – Specialty (partial)
