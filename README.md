@@ -11,6 +11,17 @@ This repository contains hands-on AWS security labs I've built to reinforce prac
 - ✅ **Logging, Monitoring, & Incident Response**
 - ✅ **Web Application Security (WAF, Shield, ALB/NLB)**
 
+  /aws-cloud-security-labs
+  /accounts-iam-security
+  /vpc-networking
+  /vpn-site2site
+  /s3-storage-security
+  /kms-encryption
+  /logging-monitoring
+  /guardduty-securityhub-macie
+  /loadbalancers-waf
+  /secrets-manager
+
 ## Why This Repository
 
 These labs were built to develop hands-on experience beyond certification knowledge. Each project includes:
