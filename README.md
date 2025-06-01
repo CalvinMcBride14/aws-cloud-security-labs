@@ -28,9 +28,8 @@ This repository contains hands-on AWS security labs designed to reinforce real-w
   /guardduty-securityhub-macie   → Threat Detection, Data Classification & Security Posture
   /loadbalancers-waf             → ALB/NLB Configurations, WAF Rules, Shield Protection
   /secrets-manager               → Secrets Manager for Secure Credential Storage
-
+```
 ---
-
 
 ## Why This Repository
 
