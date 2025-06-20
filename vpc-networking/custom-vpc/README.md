@@ -1,7 +1,7 @@
 #  Custom VPC Deployment
 
 This project demonstrates the creation of a **custom Virtual Private Cloud (VPC)** in AWS as the foundational step in building a secure, multi-tier cloud architecture.
-It’s part of a broader architecture called “Animals for Life,” and serves as the networking baseline for future components such as subnets, internet gateways, and route tables.
+It’s part of a broader architecture called “Amazon for Life,” and serves as the networking baseline for future components such as subnets, internet gateways, and route tables.
 
 This lab was completed hands-on using the AWS Management Console in the **us-east-1 (N. Virginia)** region.
 
