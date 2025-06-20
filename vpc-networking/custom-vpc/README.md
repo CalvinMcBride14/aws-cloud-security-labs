@@ -7,7 +7,7 @@ This lab was completed hands-on using the AWS Management Console in the **us-eas
 
 ---
 
-## 📦 Services Used
+##  Services Used
 
 - **Amazon VPC**
 - **IPv4 / IPv6 CIDR Allocation**
@@ -16,7 +16,7 @@ This lab was completed hands-on using the AWS Management Console in the **us-eas
 
 ---
 
-## ✅ What Was Configured
+##  What Was Configured
 
 ### VPC Creation
 - **VPC Name**: `A4L-VPC1`
@@ -58,7 +58,7 @@ Visual proof of work is stored in the (./screenshots) folder, including:
 
 ---
 
-## 📘 What I Learned
+##  What I Learned
 
 - How to manually create a custom VPC using AWS best practices
 - The importance of enabling DNS hostname resolution in custom VPCs
@@ -67,7 +67,7 @@ Visual proof of work is stored in the (./screenshots) folder, including:
 
 ---
 
-## 🔜 What’s Next
+##  What’s Next
 
 This project is the first of a multi-part networking build-out. In the next stages, I’ll be:
 
