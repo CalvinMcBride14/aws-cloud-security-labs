@@ -1,4 +1,4 @@
-# 🧱 Multi-Tier Subnet Design – Animals for Life (A4L)
+# 🧱 Multi-Tier Subnet Design
 
 This project demonstrates the **manual creation of a multi-tier subnet structure** across three Availability Zones within a custom VPC in AWS. It forms the network backbone for a scalable application environment following best practices for tiered infrastructure.
 
