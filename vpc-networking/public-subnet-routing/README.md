@@ -2,7 +2,7 @@
 
 This project demonstrates how to manually convert **private subnets into public subnets** within a custom VPC in AWS, enabling instances launched within them to communicate with the public internet.
 
-This builds upon a previously created VPC architecture for **Animals for Life**, featuring a multi-tier design spread across three Availability Zones (AZs), with this project specifically configuring the **Web tier subnets (Web-A, Web-B, Web-C)** for internet access.
+This builds upon a previously created VPC architecture for **Amazon for Life**, featuring a multi-tier design spread across three Availability Zones (AZs), with this project specifically configuring the **Web tier subnets (Web-A, Web-B, Web-C)** for internet access.
 
 ---
 
