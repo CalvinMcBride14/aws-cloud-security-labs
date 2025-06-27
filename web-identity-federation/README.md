@@ -1,4 +1,4 @@
-#Serverless Web Identity Federation Demo on AWS
+##  Serverless Web Identity Federation Demo on AWS
 
 This project demonstrates a simple **serverless application** that uses **Web Identity Federation** to authenticate users via Google, swap tokens using AWS Cognito, and securely access private images from S3.
 
