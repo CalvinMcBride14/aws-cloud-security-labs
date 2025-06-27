@@ -1,4 +1,4 @@
-# 🐾 PetIDF: A Serverless Web Identity Federation Demo on AWS
+#Serverless Web Identity Federation Demo on AWS
 
 This project demonstrates a simple **serverless application** that uses **Web Identity Federation** to authenticate users via Google, swap tokens using AWS Cognito, and securely access private images from S3.
 
@@ -16,7 +16,7 @@ I completed this project as part of an advanced AWS training series to deepen my
 
 ---
 
-## 🌐 How It Works
+## How It Works
 
 1. The front-end app (HTML + JS) is hosted in a public S3 bucket and served via CloudFront.
 2. Users sign in using a **Google account**, which returns an OAuth access token.
